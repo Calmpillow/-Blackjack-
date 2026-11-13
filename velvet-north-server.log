@@ -1,0 +1,15 @@
+[2026-11-13T02:01:02.064Z] Starting Velvet North Network
+[2026-11-13T02:01:02.068Z] Game server process started (PID 2093)
+Velvet North Network listening on port 18887
+[2026-11-13T02:01:02.288Z] Stop requested from Velvet North Control
+[2026-11-13T02:01:02.294Z] Exited (code 0, signal none)
+[2026-11-13T02:01:29.741Z] Starting Velvet North Network
+[2026-11-13T02:01:29.747Z] Game server process started (PID 2268)
+Velvet North Network listening on port 18890
+[2026-11-13T02:01:29.942Z] Restart requested from Velvet North Control
+[2026-11-13T02:01:29.946Z] Exited (code 0, signal none)
+[2026-11-13T02:01:30.197Z] Starting Velvet North Network
+[2026-11-13T02:01:30.199Z] Game server process started (PID 2279)
+Velvet North Network listening on port 18890
+[2026-11-13T02:01:30.359Z] Stop requested from Velvet North Control
+[2026-11-13T02:01:30.370Z] Exited (code 0, signal none)
